@@ -17,3 +17,8 @@
 ### 音视频处理
 
 - [FFmpeg 学习笔记](https://github.com/studying-notes/ffmpeg-notes)
+
+### 云服务
+
+- [AWS 学习笔记](https://github.com/studying-notes/aws-notes)
+
